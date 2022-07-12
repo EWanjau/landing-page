@@ -10,5 +10,5 @@ All is needed is using the elements and flex box to arrange the elements.
 
 ### Result
 - View the Outcome here
-- ![Landing Page]()
+- [***Landing Page***](https://ewanjau.github.io/landing-page/)
 
